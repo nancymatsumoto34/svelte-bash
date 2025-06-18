@@ -13,3 +13,4 @@ A fully typed, lightweight, and customizable terminal emulator component for Sve
 # clarify the control flow
 # keep defaults in sync with the manifest
 # guard against empty input
+# avoid re-reading the config on every call
