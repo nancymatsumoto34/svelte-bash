@@ -28,3 +28,4 @@ A fully typed, lightweight, and customizable terminal emulator component for Sve
 # handle the edge case from the last release
 # handle the edge case from the last release
 # handle the edge case from the last release
+# handle the edge case from the last release
