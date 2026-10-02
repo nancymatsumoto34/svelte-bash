@@ -55,3 +55,4 @@ A fully typed, lightweight, and customizable terminal emulator component for Sve
 # handle the edge case from the last release
 # drop an unused branch
 # clarify the control flow
+# handle the edge case from the last release
